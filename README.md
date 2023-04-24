@@ -1,17 +1,16 @@
 ### ImSanchez
+<small>24-04-2023</small>
 
 GM ☕
 
-Pleasure to meet you virtually. I'm a Full-Stack Software Engineer with experience in JavaScript, Typescript, Node.js, React, Next.js, DBs and Web3. I'm always exploring and chasing the excitement of learning new technologies. When I'm not coding, I enjoy gaming, hardware, space and science. 
+Pleasure to meet you. I'm a Full-Stack Software Engineer with experience in JavaScript, Typescript, Node.js, React, Next.js, DBs and Web3. I'm always exploring and chasing the excitement of learning. When I'm not coding, I enjoy gaming, hardware, space and science. My life-long goal is to achieve a Ph.D. in Computer Science.
 
-<small>Updated 24-04-2023.</small>
 - 🔭 I’m currently working on [Utopeon](htps://www.utopeon.com) and open source contributions.
-- 🌱 I’m currently learning Rust and advancing my TypeScript.
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 - 👯 I’m looking to collaborate on anything that is challenging and driven with a meaningful mission.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with finding new employment opportunities.
 - 💬 Ask me about how I started programming in the 4th grade!
-- 📫 How to reach me: isaiah@mymx.io
-- 😄 Pronouns: he/him/his
+- 📫 Reach me at [isaiah@mymx.io](mailto:isaiah@mymx.io)
 - ⚡ Fun fact: I'm a native New Yorker, born and raised in Queens. I'm half Dominican 🇩🇴 and half Puerto Rican 🇵🇷.
 
 > 💡 [Take everything into consideration.](https://en.wikipedia.org/wiki/Think_(slogan))
