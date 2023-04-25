@@ -2,7 +2,7 @@
 
 GM ☕
 
-Pleasure to meet you. I'm a Full-Stack Software Engineer with experience in JavaScript, Typescript, Node.js, React, Next.js, DBs and Web3. I'm always exploring and chasing the excitement of learning. When I'm not coding, I enjoy gaming, hardware, space and science. My life-long goal is to achieve a Ph.D. in Computer Science.
+I'm a Full-Stack Software Engineer with experience in JavaScript, Typescript, Node.js, React, Next.js, DBs and Web3. I'm always exploring and chasing the excitement of learning. When I'm not coding, I enjoy gaming, hardware, space and science. My life-long goal is to achieve a Ph.D. in Computer Science.
 
 - 🔭 I’m currently working on [Utopeon](https://www.utopeon.com) and open source contributions.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
