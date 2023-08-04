@@ -2,11 +2,10 @@ GM ☕
 
 I'm a Full-Stack Software Engineer with experience in JavaScript, Typescript, Node.js, React, Next.js, DBs and Web3. I'm always exploring and chasing the excitement of learning. When I'm not coding, I enjoy gaming, hardware, space and science. My life-long goal is to achieve a Ph.D. in Computer Science.
 
-- 🔭 I’m currently working on [Utopeon](https://www.utopeon.com) and open source contributions.
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
+- 🔭 I’m working on [Userfront](https://userfront.com/), [Utopeon](https://www.utopeon.com), and open source contributions.
+- 🌱 I’m learning [Rust](https://www.rust-lang.org/).
 - 👯 I’m looking to collaborate on anything that is challenging and driven with a meaningful mission.
-- 🤔 I’m looking for help with finding new employment opportunities.
-- 💬 Ask me about how I started programming in the 4th grade!
+- 💬 Ask me about how I started programming!
 - 📫 Reach me at [isaiah@mymx.io](mailto:isaiah@mymx.io)
 - ⚡ Fun fact: I'm a native New Yorker, born and raised in Queens. I'm half Dominican 🇩🇴 and half Puerto Rican 🇵🇷.
 
